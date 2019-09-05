@@ -1,4 +1,4 @@
-num_int = int(input("Input a number: "))    # Do not change this line
+num_int = int(input("Input a number: "))   
 #While a postive number is input it is added to the list of numbers
 #When a negative nr. is entered it prints out the max of the list
 lst = []
@@ -8,5 +8,5 @@ while  num_int >= 0:
 
 else:
 
-    print("The maximum is", max(lst))    # Do not change this line
+    print("The maximum is", max(lst))   
 
